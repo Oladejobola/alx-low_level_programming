@@ -1,1 +1,1 @@
-0x0C. C - More malloc, free
+alx 0x12-singly_linked_lists task
